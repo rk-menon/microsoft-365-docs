@@ -80,7 +80,7 @@ If you're importing a single file, you can review the detected details immediate
    > [!NOTE]
    > The values in the fields can't be changed later.
 
-2. Select **Save** to confirm the import. The imported agreement will be visible in the list of agreements.
+3. Select **Save** to confirm the import. The imported agreement will be visible in the list of agreements.
 
    > [!NOTE]
    > It might take a few hours for the new agreement to be indexed and show up in the list of agreements.
